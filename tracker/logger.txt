@@ -1,0 +1,42 @@
+
+Waiting for a client to connect...
+Connected with client!
+Connected with client!
+Connected with client!
+Connected with client!
+Connected with client!
+Connected with client!
+User Active
+User Active
+User Active
+Group request sent
+You are not the admin of this group
+Request accepted.
+Uploaded
+Uploaded
+Admin is p3
+Group admin left Successfully
+Group request sent
+Group request sent
+Connected with client!
+User Already Active
+You are not the admin of this group
+Group request sent
+Group request sent
+Connected with client!
+User Active
+Group request sent
+Request accepted.
+Request accepted.
+Already present
+Already present
+Uploaded
+Already present
+Already present
+Connected with client!
+User Active
+Group request sent
+Request accepted.
+Already present
+Uploaded
+Already present
