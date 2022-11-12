@@ -1,0 +1,694 @@
+hash-----138bf3503dbc5241dff436762e0844bdec8379c3
+hash-----50a5619a73fd3637a8b562b654d6d2a046cf3d56
+hash-----ccda663475d9402d3e4c3386ba851d2c3f85836d
+hash-----40014070ac15b4faa68d6f66e138dacc289cf632
+hash-----da39a3ee5e6b4b0d3255bfef95601890afd80709
+138bf3503dbc5241dff450a5619a73fd3637a8b5ccda663475d9402d3e4c40014070ac15b4faa68dda39a3ee5e6b4b0d3255
+hash-----debad33483d357bbe49d6a56d8eb2f0ec453c2be
+hash-----6899a93543af74556383e7ad2ad68f6c0d21626e
+hash-----da39a3ee5e6b4b0d3255bfef95601890afd80709
+debad33483d357bbe49d6899a93543af74556383da39a3ee5e6b4b0d3255
+hash-----debad33483d357bbe49d6a56d8eb2f0ec453c2be
+hash-----6899a93543af74556383e7ad2ad68f6c0d21626e
+hash-----da39a3ee5e6b4b0d3255bfef95601890afd80709
+debad33483d357bbe49d6899a93543af74556383da39a3ee5e6b4b0d3255
+download
+127.0.0.1:1234 127.0.0.1:1235 1055736$$debad33483d357bbe49d6899a93543af74556383da39a3ee5e6b4b0d3255
+-------------seeder127.0.0.1:1234
+-------------seeder127.0.0.1:1235
+debad33483d357bbe49d6899a93543af74556383da39a3ee5e6b4b0d3255
+1055736
+piecewise
+2
+getChunkInfo
+getChunkInfo
+127.0.0.1
+1234
+connecting to peer
+127.0.0.1
+1235
+connecting to peer
+1234
+1234
+1235
+1235
+getChunkVec$$video1.mp4
+getChunkVec$$video1.mp4
+Client Socket: 5
+Client Socket: 5
+getChunkVec$$video1.mp4
+getChunkVec$$video1.mp4
+client request at server getChunkVec$$video1.mp4
+client request at server getChunkVec$$video1.mp4
+getChunkVec
+getChunkVec
+video1.mp4
+video1.mp4
+
+Sending chunk vector
+
+Sending chunk vector
+3
+3
+1111
+1111
+1111
+1111
+
+-----------------------------------------
+
+Getting chunk no: 0
+selectedPiece = 2
+Starting thread for chunk number 2
+
+-----------------------------------------
+
+Chunk fetching details :video1.mp4 127.0.0.1:1234 2
+Getting chunk no: 1
+recvChunk$$video1.mp4$$2$$/home/video1.mp4
+selectedPiece = 1
+Starting thread for chunk number 1
+1234
+1234
+
+-----------------------------------------
+
+Getting chunk no: 2
+selectedPiece = 2
+recvChunk$$video1.mp4$$2$$/home/video1.mp4
+selectedPiece = 1
+selectedPiece = 2
+selectedPiece = 0
+getting chunk 2 from 1234
+Starting thread for chunk number 0
+Chunk fetching details :video1.mp4 127.0.0.1:1234 1
+recvChunk$$video1.mp4$$1$$/home/video1.mp4
+1234
+1234
+recvChunk$$video1.mp4$$1$$/home/video1.mp4
+getting chunk 1 from 1234
+Client Socket: 6
+recvChunk$$video1.mp4$$2$$/home/video1.mp4
+client request at server recvChunk$$video1.mp4$$2$$/home/video1.mp4
+recvChunk
+video1.mp4
+Sending chunkvideo1.mp4
+Filepath: /home/dell/AOS/2022202027/AOS3_folder/AOSA2EvalFiles/video1.mp4
+Sending 2 from 127.0.0.1:1234
+/home/dell/AOS/2022202027/AOS3_folder/AOSA2EvalFiles/video1.mp4
+Client Socket: 5
+Sending data starting at 1048576
+Chunk fetching details :video1.mp4 127.0.0.1:1234 0
+recvChunk$$video1.mp4$$1$$/home/video1.mp4
+recvChunk$$video1.mp4$$0$$/home/video1.mp4
+client request at server recvChunk$$video1.mp4$$1$$/home/video1.mp4
+recvChunk
+video1.mp4
+Sent -1
+
+-----------------------------------------
+
+Sending chunkvideo1.mp4
+Filepath: /home/dell/AOS/2022202027/AOS3_folder/AOSA2EvalFiles/video1.mp4
+art: 1048576
+Sending 1 from 127.0.0.1:1234
+/home/dell/AOS/2022202027/AOS3_folder/AOSA2EvalFiles/video1.mp4
+1667991069776
+Sending data starting at 524288
+d: 1055735
+
+-----------------------------------------
+
+
+-----------------------------------------
+
+tart: 524288
+1667991069776
+nd: 557055
+
+-----------------------------------------
+
+Sent 1048576
+
+-----------------------------------------
+
+tart: 557056
+1667991069776
+nd: 589823
+
+-----------------------------------------
+
+
+-----------------------------------------
+
+tart: 589824
+1667991069777
+nd: 655359
+
+-----------------------------------------
+
+
+-----------------------------------------
+
+tart: 655360
+1667991069777
+nd: 1048575
+
+-----------------------------------------
+
+1234
+1234
+recvChunk$$video1.mp4$$0$$/home/video1.mp4
+getting chunk 0 from 1234
+Client Socket: 7
+recvChunk$$video1.mp4$$0$$/home/video1.mp4
+client request at server recvChunk$$video1.mp4$$0$$/home/video1.mp4
+recvChunk
+video1.mp4
+Sending chunkvideo1.mp4
+Filepath: /home/dell/AOS/2022202027/AOS3_folder/AOSA2EvalFiles/video1.mp4
+Sending 0 from 127.0.0.1:1234
+/home/dell/AOS/2022202027/AOS3_folder/AOSA2EvalFiles/video1.mp4
+Sending data starting at 0
+
+-----------------------------------------
+
+Start: 0
+1667991069779
+End: 32767
+Sent 524288
+
+-----------------------------------------
+
+
+-----------------------------------------
+
+Start: 32768
+1667991069779
+End: 65535
+
+-----------------------------------------
+
+hash-----b7d7b707a0ac2bb37d5250594f791c941867163c
+chunk hash------b7d7b707a0ac2bb37d52
+Chunk info updated for video1.mp4 at 2
+
+-----------------------------------------
+
+Start: 65536
+1667991069779
+End: 131071
+
+-----------------------------------------
+
+
+-----------------------------------------
+
+hash-----127d6bdb802ff5e275e11da9631ea86bd87d8826
+Start: 131072
+chunk hash------127d6bdb802ff5e275e1
+1667991069780
+End: 524287
+Chunk info updated for video1.mp4 at 1
+
+-----------------------------------------
+
+hash-----e72ba5ef7d25a7b49d47496ba50e5b717f5102e8
+chunk hash------e72ba5ef7d25a7b49d47
+Chunk info updated for video1.mp4 at 0
+1234
+1234
+get_file_path$$video1.mp4
+Client Socket: 5
+get_file_path$$video1.mp4
+client request at server get_file_path$$video1.mp4
+get_file_path
+video1.mp4
+download
+Already present
+hash-----debad33483d357bbe49d6a56d8eb2f0ec453c2be
+hash-----6899a93543af74556383e7ad2ad68f6c0d21626e
+hash-----da39a3ee5e6b4b0d3255bfef95601890afd80709
+debad33483d357bbe49d6899a93543af74556383da39a3ee5e6b4b0d3255
+hash-----debad33483d357bbe49d6a56d8eb2f0ec453c2be
+hash-----6899a93543af74556383e7ad2ad68f6c0d21626e
+hash-----da39a3ee5e6b4b0d3255bfef95601890afd80709
+debad33483d357bbe49d6899a93543af74556383da39a3ee5e6b4b0d3255
+download
+127.0.0.1:1234 127.0.0.1:1235 127.0.0.1:1236 1055736$$debad33483d357bbe49d6899a93543af74556383da39a3ee5e6b4b0d3255
+-------------seeder127.0.0.1:1234
+-------------seeder127.0.0.1:1235
+-------------seeder127.0.0.1:1236
+debad33483d357bbe49d6899a93543af74556383da39a3ee5e6b4b0d3255
+1055736
+piecewise
+3
+getChunkInfo
+getChunkInfo
+127.0.0.1
+1234
+getChunkInfo
+connecting to peer
+1234
+127.0.0.1
+1234
+1236
+connecting to peer
+1236
+getChunkVec$$video4.mp4
+1236
+getChunkVec$$video4.mp4
+127.0.0.1
+1235
+connecting to peer
+1235
+Client Socket: 6
+1235
+getChunkVec$$video4.mp4
+client request at server getChunkVec$$video4.mp4
+getChunkVec
+video4.mp4
+getChunkVec$$video4.mp4
+
+Sending chunk vector
+Client Socket: 5
+Client Socket: 6
+getChunkVec$$video4.mp4
+getChunkVec$$video4.mp4
+client request at server getChunkVec$$video4.mp4
+client request at server getChunkVec$$video4.mp4
+getChunkVec
+getChunkVec
+video4.mp4
+video4.mp4
+
+Sending chunk vector
+
+Sending chunk vector
+3
+
+
+3
+3
+1111
+1111
+1111
+1111
+
+-----------------------------------------
+
+Getting chunk no: 0
+selectedPiece = 1
+Starting thread for chunk number 1
+
+-----------------------------------------
+
+Chunk fetching details :video4.mp4 127.0.0.1:1235 1
+Getting chunk no: 1
+recvChunk$$video4.mp4$$1$$/home/AOS/video4.mp4
+selectedPiece = 1
+selectedPiece = 1
+1235
+selectedPiece = 2
+1235
+Starting thread for chunk number 2
+
+-----------------------------------------
+
+Getting chunk no: 2
+recvChunk$$video4.mp4$$1$$/home/AOS/video4.mp4
+selectedPiece = 2
+selectedPiece = 0
+Starting thread for chunk number 0
+getting chunk 1 from 1235
+Chunk fetching details :video4.mp4 127.0.0.1:1234 0
+recvChunk$$video4.mp4$$0$$/home/AOS/video4.mp4
+1234
+1234
+recvChunk$$video4.mp4$$0$$/home/AOS/video4.mp4
+getting chunk 0 from 1234
+Client Socket: 5
+Chunk fetching details :video4.mp4 127.0.0.1:1234 2
+recvChunk$$video4.mp4$$2$$/home/AOS/video4.mp4
+recvChunk$$video4.mp4$$0$$/home/AOS/video4.mp4
+client request at server recvChunk$$video4.mp4$$0$$/home/AOS/video4.mp4
+1234
+recvChunk
+1234
+Client Socket: 5
+video4.mp4
+Sending chunkvideo4.mp4
+recvChunk$$video4.mp4$$1$$/home/AOS/video4.mp4
+client request at server recvChunk$$video4.mp4$$1$$/home/AOS/video4.mp4
+recvChunk$$video4.mp4$$2$$/home/AOS/video4.mp4
+recvChunk
+video4.mp4
+Filepath: video4.mp4
+Sending chunkvideo4.mp4
+getting chunk 2 from 1234
+Filepath: video4.mp4
+Sending 0 from 127.0.0.1:1234
+Sending 1 from 127.0.0.1:1235
+video4.mp4
+Sending data starting at 0
+video4.mp4
+Sending data starting at 524288
+
+-----------------------------------------
+
+Start: 0
+1667991355161
+Sent 524288
+Sent 1048576
+End: 65535
+
+-----------------------------------------
+
+
+-----------------------------------------
+
+Start: 65536
+
+-----------------------------------------
+
+1667991355161
+End: 131071
+tart: 524288
+
+-----------------------------------------
+
+1667991355161
+nd: 589823
+
+-----------------------------------------
+
+Client Socket: 6
+
+-----------------------------------------
+
+recvChunk$$video4.mp4$$2$$/home/AOS/video4.mp4
+Start: 131072
+client request at server recvChunk$$video4.mp4$$2$$/home/AOS/video4.mp4
+1667991355161
+recvChunk
+End: 524287
+video4.mp4
+
+-----------------------------------------
+
+
+-----------------------------------------
+
+Sending chunkvideo4.mp4
+Filepath: video4.mp4
+tart: 589824
+1667991355162
+Sending 2 from 127.0.0.1:1234
+hash-----ddb2efffd1e051c1d2dd358467631ab79bac1c89
+nd: 655359
+video4.mp4
+chunk hash------ddb2efffd1e051c1d2dd
+
+-----------------------------------------
+
+Sending data starting at 1048576
+Chunk info updated for video4.mp4 at 0
+Sent -1
+
+-----------------------------------------
+
+
+-----------------------------------------
+
+tart: 655360
+art: 1048576
+1667991355162
+1667991355162
+nd: 1048575
+d: 1055735
+
+-----------------------------------------
+
+
+-----------------------------------------
+
+hash-----cbef5e55f799ae2dc9279fecf28a6f8c0c7fdd71
+hash-----b7d7b707a0ac2bb37d5250594f791c941867163c
+chunk hash------cbef5e55f799ae2dc927
+chunk hash------b7d7b707a0ac2bb37d52
+Chunk info updated for video4.mp4 at 1
+Chunk info updated for video4.mp4 at 2
+1234
+1234
+get_file_path$$video4.mp4
+Client Socket: 7
+get_file_path$$video4.mp4
+client request at server get_file_path$$video4.mp4
+get_file_path
+video4.mp4
+download
+127.0.0.1:1234 127.0.0.1:1235 1055736$$debad33483d357bbe49d6899a93543af74556383da39a3ee5e6b4b0d3255Already present
+-------------seeder127.0.0.1:1234
+-------------seeder127.0.0.1:1235
+-------------seeder1055736$$debad33483d357bbe49d6899a93543af74556383da39a3ee5e6b4b0d3255Already
+download
+127.0.0.1:1234 127.0.0.1:1235 127.0.0.1:1236 1055736$$debad33483d357bbe49d6899a93543af74556383da39a3ee5e6b4b0d3255
+-------------seeder127.0.0.1:1234
+-------------seeder127.0.0.1:1235
+-------------seeder127.0.0.1:1236
+debad33483d357bbe49d6899a93543af74556383da39a3ee5e6b4b0d3255
+1055736
+piecewise
+3
+getChunkInfo
+getChunkInfo
+127.0.0.1
+getChunkInfo
+1234
+connecting to peer
+127.0.0.1
+1235
+connecting to peer
+1234
+1234
+127.0.0.1
+1235
+1236
+1235
+connecting to peer
+getChunkVec$$video4.mp4
+getChunkVec$$video4.mp4
+1236
+1236
+getChunkVec$$video4.mp4
+Client Socket: 6
+getChunkVec$$video4.mp4
+client request at server getChunkVec$$video4.mp4
+Client Socket: 5
+getChunkVec
+video4.mp4
+getChunkVec$$video4.mp4
+Client Socket: 5
+
+Sending chunk vector
+client request at server getChunkVec$$video4.mp4
+getChunkVec$$video4.mp4
+getChunkVec
+client request at server getChunkVec$$video4.mp4
+video4.mp4
+getChunkVec
+
+Sending chunk vector
+video4.mp4
+
+Sending chunk vector
+3
+1111
+1111
+3
+1111
+1111
+3
+
+
+
+-----------------------------------------
+
+Getting chunk no: 0
+selectedPiece = 2
+Starting thread for chunk number 2
+
+-----------------------------------------
+
+Chunk fetching details :video4.mp4 127.0.0.1:1234 2
+recvChunk$$video4.mp4$$2$$/home/dell/AOS/video4.mp4
+Getting chunk no: 1
+selectedPiece = 2
+1234
+selectedPiece = 1
+1234
+Starting thread for chunk number 1
+
+-----------------------------------------
+
+Chunk fetching details :video4.mp4 127.0.0.1:1235 1
+recvChunk$$video4.mp4$$2$$/home/dell/AOS/video4.mp4
+Getting chunk no: 2
+recvChunk$$video4.mp4$$1$$/home/dell/AOS/video4.mp4
+selectedPiece = 2
+getting chunk 2 from 1234
+selectedPiece = 0
+1235
+Starting thread for chunk number 0
+1235
+Chunk fetching details :video4.mp4 127.0.0.1:1234 0
+recvChunk$$video4.mp4$$0$$/home/dell/AOS/video4.mp4
+1234
+1234
+recvChunk$$video4.mp4$$0$$/home/dell/AOS/video4.mp4
+getting chunk 0 from 1234
+Client Socket: 6
+recvChunk$$video4.mp4$$2$$/home/dell/AOS/video4.mp4
+client request at server recvChunk$$video4.mp4$$2$$/home/dell/AOS/video4.mp4
+recvChunk
+video4.mp4
+Sending chunkvideo4.mp4
+Client Socket: 5
+Filepath: video4.mp4
+recvChunk$$video4.mp4$$1$$/home/dell/AOS/video4.mp4
+Sending 2 from 127.0.0.1:1234
+video4.mp4
+recvChunk$$video4.mp4$$1$$/home/dell/AOS/video4.mp4
+getting chunk 1 from 1235
+Sending data starting at 1048576
+client request at server recvChunk$$video4.mp4$$1$$/home/dell/AOS/video4.mp4
+recvChunk
+video4.mp4
+Sending chunkvideo4.mp4
+Filepath: video4.mp4
+Sent -1
+Sending 1 from 127.0.0.1:1235
+video4.mp4
+Sending data starting at 524288
+
+-----------------------------------------
+
+Client Socket: 5
+Sent 1048576
+tart: 524288
+recvChunk$$video4.mp4$$0$$/home/dell/AOS/video4.mp4
+1667991561181
+client request at server recvChunk$$video4.mp4$$0$$/home/dell/AOS/video4.mp4
+nd: 557055
+recvChunk
+
+-----------------------------------------
+
+video4.mp4
+Sending chunkvideo4.mp4
+Filepath: video4.mp4
+Sending 0 from 127.0.0.1:1234
+
+-----------------------------------------
+
+video4.mp4
+
+-----------------------------------------
+
+Sending data starting at 0
+art: 1048576
+1667991561182
+tart: 557056
+1667991561182
+d: 1055735
+
+-----------------------------------------
+
+nd: 589823
+
+-----------------------------------------
+
+
+-----------------------------------------
+
+Start: 0
+1667991561182
+Sent 524288
+End: 32767
+
+-----------------------------------------
+
+
+-----------------------------------------
+
+tart: 589824
+
+-----------------------------------------
+
+1667991561182
+Start: 32768
+nd: 655359
+1667991561182
+
+-----------------------------------------
+
+End: 65535
+
+-----------------------------------------
+
+
+-----------------------------------------
+
+tart: 655360
+1667991561184
+nd: 1048575
+
+-----------------------------------------
+
+
+-----------------------------------------
+
+Start: 65536
+1667991561184
+End: 131071
+
+-----------------------------------------
+
+
+-----------------------------------------
+
+Start: 131072
+1667991561184
+End: 524287
+
+-----------------------------------------
+
+hash-----b7d7b707a0ac2bb37d5250594f791c941867163c
+hash-----127d6bdb802ff5e275e11da9631ea86bd87d8826
+hash-----e72ba5ef7d25a7b49d47496ba50e5b717f5102e8
+chunk hash------b7d7b707a0ac2bb37d52
+chunk hash------e72ba5ef7d25a7b49d47
+Chunk info updated for video4.mp4 at 2
+Chunk info updated for video4.mp4 at 0
+chunk hash------127d6bdb802ff5e275e1
+Chunk info updated for video4.mp4 at 1
+1234
+1234
+Client Socket: 6
+get_file_path$$video4.mp4
+get_file_path$$video4.mp4
+client request at server get_file_path$$video4.mp4
+get_file_path
+video4.mp4
+hash-----138bf3503dbc5241dff436762e0844bdec8379c3
+hash-----50a5619a73fd3637a8b562b654d6d2a046cf3d56
+hash-----ccda663475d9402d3e4c3386ba851d2c3f85836d
+hash-----40014070ac15b4faa68d6f66e138dacc289cf632
+hash-----da39a3ee5e6b4b0d3255bfef95601890afd80709
+138bf3503dbc5241dff450a5619a73fd3637a8b5ccda663475d9402d3e4c40014070ac15b4faa68dda39a3ee5e6b4b0d3255
+hash-----138bf3503dbc5241dff436762e0844bdec8379c3
+hash-----50a5619a73fd3637a8b562b654d6d2a046cf3d56
+hash-----ccda663475d9402d3e4c3386ba851d2c3f85836d
+hash-----40014070ac15b4faa68d6f66e138dacc289cf632
+hash-----da39a3ee5e6b4b0d3255bfef95601890afd80709
+138bf3503dbc5241dff450a5619a73fd3637a8b5ccda663475d9402d3e4c40014070ac15b4faa68dda39a3ee5e6b4b0d3255
